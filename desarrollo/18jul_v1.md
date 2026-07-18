@@ -316,13 +316,13 @@ El capítulo no demuestra que el mandato crítico exista, cosa que ninguna obra 
 
 **Bibliografía**
 
-Andrade Tudela, A. (2018). Estrella sin origen. En F. Portocarrero (ed.), Videos de esta mujer. Registros de performance 1997-2010 (pp. \[REVISAR: cotejar título exacto del ensayo y páginas en el ejemplar\]). Proyecto AMIL.
+Andrade Tudela, A. (2018). Estrella sin origen. En F. Portocarrero (ed.), Videos de esta mujer. Registros de performance 1997-2010 \[REVISAR: cotejar título exacto del ensayo en el ejemplar\]. Proyecto AMIL.
 
 Biczel, D. (2017). Sobre la imposibilidad de trazar un mapa: el «fracaso» de la Bienal de Lima (1997-2002) (J. Brodie, trad.). Caiana, 11, 152-162. https://caiana.caiana.com.ar/dossier/2017-2-11-d07/
 
 Bios \[serie audiovisual\]. (2009). \[Entrevista a Elena Tejada-Herrera\] \[video\]. \[REVISAR: productora, canal y datos de emisión por completar.\]
 
-Borea, G. (2006). Museos y esfera pública: espacio, discursos y prácticas. Reflexiones en torno a la ciudad de Lima. En G. Cánepa Koch y M. E. Ulfe (eds.), Mirando la esfera pública desde la cultura en el Perú (pp. 133-167 \[REVISAR: el índice del volumen consigna inicio en p. 133, no 132; cotejar página final\]). CONCYTEC.
+Borea, G. (2006). Museos y esfera pública: espacio, discursos y prácticas. Reflexiones en torno a la ciudad de Lima. En G. Cánepa Koch y M. E. Ulfe (eds.), Mirando la esfera pública desde la cultura en el Perú (pp. 133-167). CONCYTEC.
 
 Borea, G. (2021). Configuring the new Lima art scene: An anthropological analysis of contemporary art in Latin America. Routledge.
 
@@ -344,17 +344,17 @@ Buntinx, G. (2017). Lava la bandera: The Colectivo Sociedad Civil and the cultur
 
 Campuzano, G. (2008). Museo Travesti del Perú. Edición del autor, con el auspicio del Institute of Development Studies. \[REVISAR: los catálogos (ISBN 978-9972-33-588-4) fechan el libro en 2008; el capítulo dice «el libro de 2007». Cotejar el colofón del ejemplar y ajustar la entrada o la prosa; la cronología del párrafo sobre la cita de Santacruz Pachacuti depende de esta fecha.\]
 
-Carvajal, F. (2014). Políticas de la infección. Errata\#, (12). \[REVISAR: cotejar páginas.\]
+Carvajal, F. (2014). Políticas de la infección. Errata\#, (12).
 
-Castillo, R. (c. 1988). \[Entrevista a Eduardo Tokeshi sobre «Algo va a pasar»\]. Sección Artes & Letras. \[REVISAR: medio, fecha exacta y páginas por completar.\]
+Castillo, R. (c. 1988). \[Entrevista a Eduardo Tokeshi sobre «Algo va a pasar»\]. Sección Artes & Letras. \[REVISAR: medio y fecha exacta por completar.\]
 
-Comisión de la Verdad y Reconciliación. (2003). Informe final. CVR. \[REVISAR: volumen y páginas citadas por completar.\]
+Comisión de la Verdad y Reconciliación. (2003). Informe final. CVR. \[REVISAR: volumen citado por completar.\]
 
 Cuevas, T., y Quijano, R. (2011). Arte al paso. Colección contemporánea del Museo de Arte de Lima \[catálogo de exposición, Estação Pinacoteca\]. Pinacoteca do Estado de São Paulo y Museo de Arte de Lima. \[REVISAR: cotejar pie de imprenta.\]
 
 Deacon, T. W. (1997). The symbolic species: The co-evolution of language and the brain. W. W. Norton.
 
-Del Valle, A. (1999). Memoria sin territorio, territorio sin memoria. Hueso Húmero, 34, 86-\[REVISAR: cotejar página final; el texto siguiente del índice inicia en la p. 121\].
+Del Valle, A. (1999). Memoria sin territorio, territorio sin memoria. Hueso Húmero, 34.
 
 Del Valle, A., y Villacorta, J. (2007). Incertidumbre y certezas en el arte peruano reciente. Imaginarios de Lima en transformación 1980-2006. En Post-ilusiones. Nuevas visiones. Arte crítico en Lima (1980-2006). Fundación Augusto N. Wiese. \[REVISAR: cotejar colofón: López fecha el libro en 2007; el CV de M. Aguirre indica 2006\. Propagar la decisión a las citas en el texto.\]
 
@@ -362,11 +362,11 @@ E.P.S. Huayco. (1981). Arte al paso \[folleto\]. \[REVISAR: cotejar pie de impre
 
 Flynn, A. U., Íñigo Clavo, M., Lemos, B., y Portocarrero, F. (eds.). (2026). Unmaking to make: Art as decolonising practice in Latin America's future, past and present. UCL Press. https://www.uclpress.co.uk/products/244287
 
-Freire S., L. (1983). Herbert Rodríguez, azote y azúcar con el sistema. Hueso Húmero, 18, 168-\[REVISAR: cotejar rango; el PDF de trabajo pagina el texto en 178-185\].
+Freire S., L. (1983). Herbert Rodríguez, azote y azúcar con el sistema. Hueso Húmero, 18.
 
 Gal, S. (2013). Tastes of talk. Qualia and the moral flavor of signs. Anthropological Theory, 13(1-2), 31-48.
 
-Gamboa, J. (1997). Fuego cruzado en la Bienal de Arte de Lima. Quehacer, 110\. \[REVISAR: cotejar número y páginas en CEDOC-UNMSM: cedoc.sisbib.unmsm.edu.pe/biblioteca-digital/revistas/quehacer/110.\]
+Gamboa, J. (1997). Fuego cruzado en la Bienal de Arte de Lima. Quehacer, 110\. \[REVISAR: cotejar número de la revista en CEDOC-UNMSM: cedoc.sisbib.unmsm.edu.pe/biblioteca-digital/revistas/quehacer/110.\]
 
 Germaná, G., y Portocarrero, F. (2026). The «Indigenous turn» and the rise of Amazonian art: Insights from the seminal work of the Seminario de Historia Rural Andina (SHRA). En A. U. Flynn, M. Íñigo Clavo, B. Lemos y F. Portocarrero (eds.), Unmaking to make (cap. 8). UCL Press.
 
@@ -390,17 +390,17 @@ Kusunoki, R., y Lerner, S. (2026). Reconsidering the «art museum»: Some reflec
 
 Lauer, M. (1982). Crítica de la artesanía. Plástica y sociedad en los Andes peruanos. DESCO. \[REVISAR: cotejar que la cita de Buntinx (1983a) sobre el «soporte social» provenga de este volumen; alternativa en archivo: entrevista a Lauer en Quehacer, 19, pp. 120-128.\]
 
-Leigh Raffo, D. (2006). Intervenciones en el espacio público a través de la performance: Recuerdo, Crisis y Lava la Bandera. En G. Cánepa Koch y M. E. Ulfe (eds.), Mirando la esfera pública desde la cultura en el Perú (pp. 171-186 \[REVISAR: página final inferida del índice del volumen\]). CONCYTEC.
+Leigh Raffo, D. (2006). Intervenciones en el espacio público a través de la performance: Recuerdo, Crisis y Lava la Bandera. En G. Cánepa Koch y M. E. Ulfe (eds.), Mirando la esfera pública desde la cultura en el Perú (pp. 171-186). CONCYTEC.
 
 Lerner, S. (Ed.). (2013a). Arte contemporáneo. Colección Museo de Arte de Lima. Museo de Arte de Lima.
 
-Lerner, S. (2013b). Formando la colección de arte contemporáneo del MALI. En S. Lerner (ed.), Arte contemporáneo. Colección Museo de Arte de Lima (pp. \[REVISAR: páginas por completar\]). Museo de Arte de Lima.
+Lerner, S. (2013b). Formando la colección de arte contemporáneo del MALI. En S. Lerner (ed.), Arte contemporáneo. Colección Museo de Arte de Lima. Museo de Arte de Lima.
 
 Lerner, S. (2025). \[Intervención en foro sobre coleccionismo, feria Pinta Lima\]. \[REVISAR: entrada faltante — el texto cita (Lerner, 2025\) y no había registro en ninguno de los dos bloques. Completar título de la mesa, fecha, sede y soporte (video o registro propio).\]
 
 López, M. A. (2007, 25 de julio). Post-ilusiones. Nuevas visiones. Arte crítico en Lima (1980-2006) \[entrada de blog\]. Arte Nuevo. https://arte-nuevo.blogspot.com/2007/07/post-ilusiones-nuevas-visiones-arte.html
 
-López, M. A. (2021). \[Texto curatorial\]. En Hay algo incomestible en la garganta. Poéticas antipatriarcales y nueva escena en los años noventa \[catálogo\]. ICPNA. \[REVISAR: título del ensayo y páginas por completar.\]
+López, M. A. (2021). \[Texto curatorial\]. En Hay algo incomestible en la garganta. Poéticas antipatriarcales y nueva escena en los años noventa \[catálogo\]. ICPNA. \[REVISAR: título del ensayo por completar.\]
 
 López, M. A. (Ed.). (2023). Javi Vargas. Florecen luces sobre nuestras pieles / The lights blossom in our skins \[libro bilingüe\]. ICPNA.
 
@@ -430,7 +430,7 @@ Quijano, R. (2001). ¿De qué puntos cardinales hablan? Anotaciones sobre la úl
 
 Radulescu de Barrio de Mendoza, M. (2017). Personajes y escenarios en las performances de Elena Tejada. Estúdio, Artistas sobre Outras Obras, 8(20), 55-64.
 
-Román, E. (1999). I Bienal Nacional de Lima: algunos deslindes. Hueso Húmero, 34, 44-\[REVISAR: cotejar página final; el texto siguiente del índice inicia en la p. 50\].
+Román, E. (1999). I Bienal Nacional de Lima: algunos deslindes. Hueso Húmero, 34.
 
 Roper, D. M. (2022). Queering Tupac Amaru II: Travestismo as methodology and the re-imagination of Andean cosmology. GLQ: A Journal of Lesbian and Gay Studies, 28(1), 87-114. https://doi.org/10.1215/10642684-9449095
 
@@ -448,15 +448,15 @@ Tejada-Herrera, E. (2006). \[Libreto de Recuerdo\]. \[REVISAR: soporte y datos d
 
 Tejada-Herrera, E. (s. f.). Recuerdo \[registro en video de la performance de 1998\]. Micromuseo \[canal de YouTube\]. https://www.youtube.com/watch?v=hsSQyz1vUMk
 
-Vich, V. (2015). La violencia, la dictadura y la globalización: arte y política en el Perú contemporáneo. En Poéticas del duelo. Ensayos sobre arte, memoria y violencia política en el Perú (cap. 9, pp. \[REVISAR: páginas por completar\]). Instituto de Estudios Peruanos.
+Vich, V. (2015). La violencia, la dictadura y la globalización: arte y política en el Perú contemporáneo. En Poéticas del duelo. Ensayos sobre arte, memoria y violencia política en el Perú (cap. 9). Instituto de Estudios Peruanos.
 
 Vidarte, G. (2023). Exhibiciones y adquisiciones para la construcción de narrativas en la historia del arte contemporáneo peruano. En Miradas contemporáneas. Nuevas adquisiciones en la colección ICPNA (2015-2023) \[catálogo de exposición, Espacio Juan Pardo Heeren\]. Instituto Cultural Peruano Norteamericano.
 
 Vilela Torres, M. del C. (2019). La posibilidad política del cuerpo: la performance de Elena Tejada-Herrera entre 1997 y 2001 \[Tesis de maestría, Pontificia Universidad Católica del Perú\]. Repositorio de Tesis PUCP. http://hdl.handle.net/20.500.12404/15318
 
-Villacorta, J. (1996). Un arte cuestionador: de Dadá a La Cantuta. Quehacer, 102, 94-103. \[REVISAR: cotejar rango (el PDF de trabajo pagina 96-105) y mes del número en CEDOC-UNMSM.\]
+Villacorta, J. (1996). Un arte cuestionador: de Dadá a La Cantuta. Quehacer, 102, 94-103. \[REVISAR: cotejar mes del número en CEDOC-UNMSM.\]
 
-Villacorta, J. (Ed.). (2013). ¿Un arte visual a contrapelo de los dictados metropolitanos? En el Perú, el arte moderno es un gesto tardío \[conversación a seis voces, MALI, julio y octubre de 2011\]. En S. Lerner (ed.), Arte contemporáneo. Colección Museo de Arte de Lima (pp. \[REVISAR: páginas por completar\]). Museo de Arte de Lima.
+Villacorta, J. (Ed.). (2013). ¿Un arte visual a contrapelo de los dictados metropolitanos? En el Perú, el arte moderno es un gesto tardío \[conversación a seis voces, MALI, julio y octubre de 2011\]. En S. Lerner (ed.), Arte contemporáneo. Colección Museo de Arte de Lima. Museo de Arte de Lima.
 
 Villacorta, J. (2019). Puntos cardinales \[ponencia\]. CEdA, Lima. \[REVISAR: cotejar nombre completo de la institución y fecha exacta.\]
 
