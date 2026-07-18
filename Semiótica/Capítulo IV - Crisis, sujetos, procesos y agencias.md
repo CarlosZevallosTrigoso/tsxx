@@ -56,11 +56,11 @@ Sobre eso se monta una asimetría que afecta a todas las lecturas, incluida la m
 
 Queda por decir qué crisis narra la pieza, que es donde el análisis reporta a la tesis. *Recuerdo* no representa la masacre de La Cantuta; produce la legibilidad de una crisis que no cierra. Su índice forense no apunta a un acontecimiento clausurado sino a uno que sigue abierto por la impunidad, y por eso el afecto lo data en un presente que el calendario ya había dejado atrás. La crisis, aquí, no es un dato que la obra ilustre sino un operador que la obra pone a funcionar por sustracción: retira el marco, deja que el público reponga lo que falta, y cada régimen posterior repone lo que la acción sustrajo, la cartela repone la explicación, el mercado repone la denuncia histórica, la crítica repone la genealogía que prefiere. En términos del capítulo, la obra señala una posición y son sus interpretantes, junto con su propio montaje, quienes la regimentan como criticidad legible, según la operación que el antropólogo lingüista Michael Silverstein (2003) llama regimentación del índice. Y lo hace en un momento en que el mandato aún no está instituido: la exigencia crítica ya se nombra desde la institución que aloja la pieza, pero todavía como tema de una semana de arte y no como línea que se programa, de modo que quien la sostiene la carga desde fuera, como convicción y como culpa. Sospecho que es ese intervalo, el de una crisis sin cierre y un mandato sin institución, el que la obra habita, y que su forma temporal es el interregno de una ocupación militar cuyo retiro se había anunciado y que seguía en pie.
 
-[^psotta]: Sospecho, sin poder confirmarlo, que podría tratarse de Helmut J. Psotta.
+[^psotta]: Sospecho, sin poder confirmarlo, que podría tratarse de Helmut J. Psotta. [REVISAR]
 
 ### 4.3. Bandera VIII de Eduardo Tokeshi (2000)
 
-*Bandera VIII*, 2000. Técnica mixta: parantes de acero, soporte acerado, bolsas de transferencia, miel, sal, colorantes naturales, sangre RH negativa, alambres acerados y tensadores; 200 × 175 × 54 cm; ciento ocho recipientes; estructura móvil que alterna el cromo y el verde de hospital. Expuesta en «Los signos mesiánicos» (Galería Fórum, Lima, 29 de marzo al 16 de abril de 2001). Colección: por confirmar.
+*Bandera VIII*, 2000. Técnica mixta: parantes de acero, soporte acerado, bolsas de transferencia, miel, sal, colorantes naturales, sangre RH negativa, alambres acerados y tensadores; 200 × 175 × 54 cm; ciento ocho recipientes; estructura móvil que alterna el cromo y el verde de hospital. Expuesta en «Los signos mesiánicos» (Galería Fórum, Lima, 29 de marzo al 16 de abril de 2001). Colección: por confirmar. [REVISAR]
 
 **Perfil**
 
@@ -137,25 +137,25 @@ El capítulo no demuestra que el mandato crítico exista, cosa que ninguna obra 
 
 ## Referencias
 
-[Las entradas marcadas «por completar» se cerrarán con el gestor bibliográfico; se consignan aquí en forma provisional.]
+[Las entradas marcadas «por completar» se cerrarán con el gestor bibliográfico; se consignan aquí en forma provisional.] [REVISAR]
 
 80m2 Livia Benavides. (2019). *Elena Tejada-Herrera* [portafolio, Frieze London, sección Focus]. https://static.frieze.com/files/event/press/LB%20Portfolio%20-%20Elena%20Tejada-Herrera_0.pdf
 
-Andrade Tudela, A. (2018). [Texto sobre Elena Tejada-Herrera]. En F. Portocarrero (Ed.), *Videos de esta mujer. Registros de performance 1997-2010*. Proyecto AMIL. [Por completar.]
+Andrade Tudela, A. (2018). [Texto sobre Elena Tejada-Herrera]. En F. Portocarrero (Ed.), *Videos de esta mujer. Registros de performance 1997-2010*. Proyecto AMIL. [Por completar.] [REVISAR]
 
-*Bios* [serie audiovisual]. (2009). [Entrevista a Elena Tejada-Herrera] [video]. [Productora y datos por completar.]
+*Bios* [serie audiovisual]. (2009). [Entrevista a Elena Tejada-Herrera] [video]. [Productora y datos por completar.] [REVISAR]
 
 Buendía, A. (2012). *Eduardo Tokeshi, visita guiada a la retrospectiva* [registro en video]. ICPNA, Lima. https://www.youtube.com/watch?v=ikvwb5AZPBs
 
-Buntinx, G. (2001). [Ensayo del catálogo]. En *Los signos mesiánicos* [catálogo de exposición]. Galería Fórum. [Por completar.]
+Buntinx, G. (2001). [Ensayo del catálogo]. En *Los signos mesiánicos* [catálogo de exposición]. Galería Fórum. [Por completar.] [REVISAR]
 
-Campuzano, G. (2007). *Museo Travesti del Perú*. [Editorial por completar.]
+Campuzano, G. (2007). *Museo Travesti del Perú*. [Editorial por completar.] [REVISAR]
 
-Carvajal, F. (2014). Políticas de la infección. *Errata*, (12). [Por completar.]
+Carvajal, F. (2014). Políticas de la infección. *Errata*, (12). [Por completar.] [REVISAR]
 
-Castillo, R. (1988). [Entrevista a Eduardo Tokeshi sobre «Algo va a pasar»]. [Por completar.]
+Castillo, R. (1988). [Entrevista a Eduardo Tokeshi sobre «Algo va a pasar»]. [Por completar.] [REVISAR]
 
-Comisión de la Verdad y Reconciliación (CVR). (2003). *Informe final*. CVR. [Volumen y páginas por completar.]
+Comisión de la Verdad y Reconciliación (CVR). (2003). *Informe final*. CVR. [Volumen y páginas por completar.] [REVISAR]
 
 Deacon, T. W. (1997). *The symbolic species: The co-evolution of language and the brain*. W. W. Norton.
 
@@ -169,25 +169,25 @@ Koselleck, R. (1988). *Critique and crisis: Enlightenment and the pathogenesis o
 
 Larkin, B. (2013). The politics and poetics of infrastructure. *Annual Review of Anthropology, 42*, 327-343.
 
-Leigh Raffo, D. (2006). Intervenciones en el espacio público a través de la performance. *Recuerdo*, *Crisis* y *Lava la bandera*. En G. Cánepa Koch y M. E. Ulfe (Eds.), [título del volumen]. Pontificia Universidad Católica del Perú. [Por completar.]
+Leigh Raffo, D. (2006). Intervenciones en el espacio público a través de la performance. *Recuerdo*, *Crisis* y *Lava la bandera*. En G. Cánepa Koch y M. E. Ulfe (Eds.), [título del volumen]. Pontificia Universidad Católica del Perú. [Por completar.] [REVISAR]
 
-López, M. A. (2021). [Texto curatorial]. En *Hay algo incomestible en la garganta. Poéticas antipatriarcales y nueva escena en los años noventa* [catálogo]. ICPNA. [Por completar.]
+López, M. A. (2021). [Texto curatorial]. En *Hay algo incomestible en la garganta. Poéticas antipatriarcales y nueva escena en los años noventa* [catálogo]. ICPNA. [Por completar.] [REVISAR]
 
-López, M. A. (Ed.). (2023). *Javi Vargas. Florecen luces sobre nuestras pieles / The lights blossom in our skins* [libro bilingüe]. ICPNA. [Por completar.]
+López, M. A. (Ed.). (2023). *Javi Vargas. Florecen luces sobre nuestras pieles / The lights blossom in our skins* [libro bilingüe]. ICPNA. [Por completar.] [REVISAR]
 
 Milla Villena, C. (1983). *Génesis de la cultura andina*. Colegio de Arquitectos del Perú.
 
-Mujica Pinilla, R. (s. f.). *La imagen transgredida*. [Referencia por completar.]
+Mujica Pinilla, R. (s. f.). *La imagen transgredida*. [Referencia por completar.] [REVISAR]
 
-Nefando, J. [Vargas Sotomayor, J.]. (2017). Eclipse felino. [Publicación por completar.]
+Nefando, J. [Vargas Sotomayor, J.]. (2017). Eclipse felino. [Publicación por completar.] [REVISAR]
 
 Nöth, W. (2011). Visual semiotics: Key features and an application to picture ads. En E. Margolis y L. Pauwels (Eds.), *The SAGE handbook of visual research methods* (pp. 298-316). SAGE.
 
 Peirce, C. S. (1931-1958). *Collected papers of Charles Sanders Peirce* (C. Hartshorne, P. Weiss, y A. W. Burks, Eds.; Vols. 1-8). Harvard University Press.
 
-Portocarrero, F. (Ed.). (2018). *Videos de esta mujer. Registros de performance 1997-2010*. Proyecto AMIL. [Por completar.]
+Portocarrero, F. (Ed.). (2018). *Videos de esta mujer. Registros de performance 1997-2010*. Proyecto AMIL. [Por completar.] [REVISAR]
 
-Radulescu de Barrio de Mendoza, M. (2017). Personajes y escenarios en las performances de Elena Tejada. [Publicación por completar.]
+Radulescu de Barrio de Mendoza, M. (2017). Personajes y escenarios en las performances de Elena Tejada. [Publicación por completar.] [REVISAR]
 
 Roper, D. (2022). Queering Tupac Amaru II: Travestismo as methodology and the re-imagination of Andean cosmology. *GLQ, 28*(1), 87-114.
 
@@ -199,21 +199,21 @@ Star, S. L., y Ruhleder, K. (1996). Steps toward an ecology of infrastructure: D
 
 Stjernfelt, F. (2007). *Diagrammatology: An investigation on the borderlines of phenomenology, ontology, and semiotics*. Springer.
 
-Tejada-Herrera, E. (2006). [Libreto de *Recuerdo*]. [Por completar; reeditado en Portocarrero, 2018.]
+Tejada-Herrera, E. (2006). [Libreto de *Recuerdo*]. [Por completar; reeditado en Portocarrero, 2018.] [REVISAR]
 
 Tejada-Herrera, E. (s. f.). *Recuerdo* [registro en video de la performance de 1998]. Micromuseo [canal de YouTube]. https://www.youtube.com/watch?v=hsSQyz1vUMk
 
-Vich, V. (2015). *La violencia, la dictadura y la globalización. Arte y política en el Perú contemporáneo*. [Editorial por completar.]
+Vich, V. (2015). *La violencia, la dictadura y la globalización. Arte y política en el Perú contemporáneo*. [Editorial por completar.] [REVISAR]
 
 Vilela Torres, M. del C. (2019). *La posibilidad política del cuerpo. La performance de Elena Tejada-Herrera entre 1997 y 2001* [Tesis de maestría, Pontificia Universidad Católica del Perú].
 
-Villanes, E. (1994-1995). *Gloria evaporada* / *Gente evaporada* [instalación]. [Datos por completar.]
+Villanes, E. (1994-1995). *Gloria evaporada* / *Gente evaporada* [instalación]. [Datos por completar.] [REVISAR]
 
 ### Entrevistas y fuentes de campo
 
 Tejada-Herrera, E. (2026, 16 de abril). Entrevista personal [realizada por C. Zevallos Trigoso], Lima.
 
-Tokeshi, E. (2026). Entrevista personal [realizada por C. Zevallos Trigoso], Lima. [Fecha exacta por completar.]
+Tokeshi, E. (2026). Entrevista personal [realizada por C. Zevallos Trigoso], Lima. [Fecha exacta por completar.] [REVISAR]
 
 Vargas Sotomayor, J. (2025, 14 de octubre). Entrevista personal [realizada por C. Zevallos Trigoso], Lima.
 
