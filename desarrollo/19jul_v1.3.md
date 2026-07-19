@@ -32,9 +32,11 @@ Explicar todo lo que he desarrollado, lo que falta incorporar dentro de lo desar
 
 Introducción
 
-1. Planteamiento del tema y objetivos de investigación  
-   2. Metodología  
-   3. Sobre mi lugar de enunciación  
+   1. Planteamiento del tema y objetivos de investigación  
+   1.2. El campo: arte contemporáneo global y consolidación limeña  
+   1.3. Aparato conceptual: infraestructura visual, régimen semiótico, mandato crítico  
+   1.4. Objetivo general y objetivos específicos  
+   1.5. Estructura de la tesis  
 2. Capítulo II: El arte contemporáneo como infraestructura visual  
 3. Capítulo III: Historia crítica del mandato crítico  
    1. Introducción: planteamiento y método  
