@@ -552,7 +552,7 @@ Silva Flores, L. F. (2023). Memorias en torno a la intervención militar de la U
 
 Silverstein, M. (2003). Indexical order and the dialectics of sociolinguistic life. Language & Communication, 23(3-4), 193-229.
 
-Smith, T. (2012). \[REVISAR: obra y editorial de Terry Smith 2012 (¿Contemporary art: World currents? ¿Thinking contemporary curating?) de donde proviene «internacional, expansionista y proliferante».\]
+Smith, T. (2012). ¿Qué es el arte contemporáneo? Siglo Veintiuno Editores.
 
 Star, S. L., y Ruhleder, K. (1996). Steps toward an ecology of infrastructure: Design and access for large information spaces. Information Systems Research, 7(1), 111-134.
 
