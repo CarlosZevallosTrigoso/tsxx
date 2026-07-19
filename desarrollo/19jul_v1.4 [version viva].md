@@ -182,7 +182,7 @@ Este capítulo reconstruye cómo la criticidad llegó a ser, en el arte limeño,
 
 De ahí se siguen dos sensibilidades más que reglas: no leo estos textos para desenmascararlos, porque desenmascarar es lo que el propio mandato hace, y si lo historizo con su gesto dejo de describirlo y paso a ejecutarlo (Sedgwick, 2003); y tampoco les impongo una teleología, pues sigo a Foucault en atender la «emergencia» y la «procedencia» de las cosas por sobre un origen que restituiría una identidad (Foucault, 1971/1992). El mandato crítico no estaba latente en 1980 ni se realiza en 2026; cada tramo describe un estado de cosas que pudo no conducir al siguiente.
 
-El campo no tenía listo ningún archivo para esta pregunta. Lo disponible es difuso y precario: un volante que solo sobrevive en la fotografía de un libro, revistas en digitalizaciones defectuosas, audios que nadie había transcrito. Georges Didi-Huberman ha insistido en que ningún archivo está completo, porque archivar también destruye (Didi-Huberman, 2007), y Gisela Cánepa Koch ha mostrado, para los archivos y museos latinoamericanos, que archivar, lejos de ser un depósito neutro, es una práctica en disputa (Cánepa Koch, 2024). El corpus de este capítulo lo construí, siguiendo la indicación de los Comaroff (1992) de que «una etnografía histórica debe comenzar por construir su propio archivo»: a los géneros que el propio mandato produjo para acreditarse (el catálogo, la reseña, la retrospectiva, la entrevista) sumé por decisión analítica bases de concurso, dossiers de revista, transcripciones de audio y las entrevistas que conduje. Tampoco reparto ese conjunto entre relatos publicados y testimonios prestados, porque el corpus deshace la distinción; la conversación a seis voces que examino en el tercer tramo es habla sostenida en el museo en 2011, editada e impresa dos años después en el catálogo de la colección (Villacorta, 2013).
+El campo no tenía listo ningún archivo para esta pregunta. Lo disponible es difuso y precario: un volante que solo sobrevive en la fotografía de un libro, revistas en digitalizaciones defectuosas, audios que nadie había transcrito. Georges Didi-Huberman ha insistido en que ningún archivo está completo, porque archivar también destruye (Didi-Huberman, 2012), y Gisela Cánepa Koch ha mostrado, para los archivos y museos latinoamericanos, que archivar, lejos de ser un depósito neutro, es una práctica en disputa (Cánepa Koch, 2024). El corpus de este capítulo lo construí, siguiendo la indicación de los Comaroff (1992) de que «una etnografía histórica debe comenzar por construir su propio archivo»: a los géneros que el propio mandato produjo para acreditarse (el catálogo, la reseña, la retrospectiva, la entrevista) sumé por decisión analítica bases de concurso, dossiers de revista, transcripciones de audio y las entrevistas que conduje. Tampoco reparto ese conjunto entre relatos publicados y testimonios prestados, porque el corpus deshace la distinción; la conversación a seis voces que examino en el tercer tramo es habla sostenida en el museo en 2011, editada e impresa dos años después en el catálogo de la colección (Villacorta, 2013).
 
 Una restricción suya funciona aquí como regla de prueba: la ausencia, la desconexión y el desorden «tienen que ser efectivamente demostrados; no pueden presumirse ni postularse por inducción negativa» (1992). La aplico ante todo a mi corpus, cuya intermitencia podría inducirme a inferir vacíos que son artefactos del archivo. Que un texto omita algo demuestra únicamente esa omisión, y a veces ni eso, porque la copia que tengo delante puede venir incompleta; las faltas del archivo no autorizan conclusiones sobre lo que el campo pensó.
 
@@ -489,7 +489,7 @@ Buntinx, G. (2017). Lava la bandera: The Colectivo Sociedad Civil and the cultur
 
 Campuzano, G. (2008). Museo Travesti del Perú. Edición del autor, con el auspicio del Institute of Development Studies. ISBN 978-9972-33-588-4.
 
-Cánepa Koch, G. (2024). Materialidades y memorias en disputa. Prácticas de archivo y museos. En Antropologías visuales latinoamericanas (cap. 2). \[REVISAR: ficha completa del volumen (editorial, editores) contra el ejemplar de Teoría.\]
+Cánepa Koch, G. (2024). Materialidades y memorias en disputa. Prácticas de archivo y museos. En G. Cánepa, G. Borea y A. Quinteros (Eds.), Antropologías visuales latinoamericanas: Genealogías, investigación y enseñanza (1ª ed.). FLACSO Ecuador / Fondo Editorial de la Pontificia Universidad Católica del Perú.
 
 Capps, L., y Ochs, E. (1996). Narrating the self. Annual Review of Anthropology, 25, 19-43.
 
@@ -511,7 +511,7 @@ Del Valle, A., y Villacorta, J. (2006). Incertidumbre y certezas en el arte peru
 
 Deleuze, G., y Foucault, M. (1992). Los intelectuales y el poder. En M. Foucault, Microfísica del poder. La Piqueta. (Conversación original de 1972).
 
-Didi-Huberman, G. (2007). El archivo arde. \[REVISAR: ficha y edición en castellano.\]
+Didi-Huberman, G. (2012). Arde la imagen. En Arde la imagen (pp. 7-44). Ediciones Ve / Fundación Televisa.
 
 E.P.S. Huayco. (1981). Arte al paso \[librillo bilingüe español-alemán del video de 28 min\]. Edizioni Flaviana, Locarno. (Reproducido en Buntinx (ed.), 2005.)
 
@@ -529,11 +529,11 @@ Gamboa, J. (1997). Fuego cruzado en la Bienal de Arte de Lima. Quehacer, 110\.
 
 Germaná, G., y Portocarrero, F. (2026). The «Indigenous turn» and the rise of Amazonian art: Insights from the seminal work of the Seminario de Historia Rural Andina (SHRA). En A. U. Flynn, M. Íñigo Clavo, B. Lemos y F. Portocarrero (eds.), Unmaking to make (cap. 8). UCL Press.
 
-Gupta, A., y Ferguson, J. (Eds.). (1997). Anthropological locations: Boundaries and grounds of a field science. University of California Press. \[REVISAR: confirmar la obra (el volumen o el ensayo «Discipline and practice…»).\]
+Gupta, A., y Ferguson, J. (Eds.). (1997). Anthropological locations: Boundaries and grounds of a field science. University of California Press.
 
 Hernández Calvo, M., y Villacorta, J. (2002). Franquicias imaginarias. Las opciones estéticas en las artes plásticas en el Perú de fin de siglo. Fondo Editorial de la Pontificia Universidad Católica del Perú.
 
-Holmes, D. R., y Marcus, G. E. (2008). \[REVISAR: obra exacta de 2008 sobre los «socios epistémicos» / epistemic partners.\]
+Holmes, D. R., y Marcus, G. E. (2008). Collaboration today and the re-imagination of the classic scene of fieldwork encounter. Collaborative Anthropologies, 1(1), 81-101. https://doi.org/10.1353/cla.0.0003
 
 Hurtado, E. (2018, 31 de enero). Las Tablas de Sarhua: el derecho a ser reconocidos como ciudadanos. Idehpucp. https://idehpucp.pucp.edu.pe/boletin-eventos/las-tablas-sarhua-derecho-reconocidos-ciudadanos-eduardo-hurtado-16773/
 
@@ -573,7 +573,7 @@ López, M. A. (2021). Poéticas antipatriarcales frente al hechizo neoliberal. N
 
 López, M. A. (Ed.). (2023). Javi Vargas. Florecen luces sobre nuestras pieles / The lights blossom in our skins \[libro bilingüe\]. ICPNA.
 
-Marcus, G. E. (2021). \[REVISAR: obra de 2021 sobre los «para-sitios».\]
+Marcus, G. E. (2021). The para-site in ethnographic research projects. En A. Ballestero y B. R. Winthereik (Eds.), Experimenting with ethnography: A companion to analysis (pp. 41-52). Duke University Press.
 
 Marsano, C. (2025, 27 de septiembre). El hombre de Artus (EP 12) \[entrevista en video\]. Desde la Azotea \[podcast\], YouTube. https://www.youtube.com/watch?v=zu47SmyFLlY
 
@@ -589,13 +589,13 @@ Nöth, W. (2011). Visual semiotics: Key features and an application to picture a
 
 Livia Benavides, Galería \[80m2\]. (2019). Elena Tejada-Herrera \[portafolio, Frieze London, sección Focus\]. https://static.frieze.com/files/event/press/LB%20Portfolio%20-%20Elena%20Tejada-Herrera\_0.pdf
 
-Ortner, S. B. (2016). \[REVISAR: obra de donde provienen las citas sobre subjetividad; confirmar el año.\]
+Ortner, S. B. (2016). Antropología y teoría social: Cultura, poder y agencia (S. Jawerbaum y J. Barba, Trads.; 1ª ed. en español). UNSAM Edita.
 
 Peirce, C. S. (1931-1958). Collected papers of Charles Sanders Peirce (C. Hartshorne, P. Weiss y A. W. Burks, eds.; Vols. 1-8). Harvard University Press.
 
 Peralta, J. (2007). Lo que la Bienal de Lima se llevó. Balance a cinco años de su desactivación. Illapa Mana Tukukuq, (4), 63-72. https://doi.org/10.31381/illapa.v0i4
 
-Pinochet Cobos, C. (2020). Antropologías del arte en tiempo presente. \[REVISAR: revista, volumen y páginas.\]
+Pinochet Cobos, C. (2020). Antropologías del arte en tiempo presente. Antropologías del Sur, 7(13), 63-78.
 
 Portocarrero, F. (Ed.). (2018). Videos de esta mujer. Registros de performance 1997-2010. Proyecto AMIL.
 
@@ -653,7 +653,7 @@ Villacorta, J. (2017). \[Texto\]. En Próxima parada. Artistas peruanos en la co
 
 Villanes, E. (1994-1995). Gloria evaporada / Gente evaporada \[acción performativa\].
 
-Zevallos, C. (2016). \[REVISAR: referencia completa de la investigación previa del autor.\]
+Zevallos, C. (2016). La resistencia de la imagen fotográfica: Prácticas y discursos artísticos en la fotografía limeña contemporánea [Tesis de maestría, Pontificia Universidad Católica del Perú].
 
 Entrevistas y fuentes de campo realizadas por el autor  
 Germaná, G. (2025, 20 de noviembre). Entrevista en profundidad. Lima.
